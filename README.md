@@ -1,14 +1,14 @@
 # hello-world
-.h1 One repository
+# One repository
 
-.h2 Marks
-This is _italics_ and this is *bold*.
+## Marks
+This is _italics_ and this is **bold**.
 
-.h2 Unnumbered
+## Unnumbered
 * First item
 * Second item
 
-.h2 Numbered
+## Numbered
 and now, numbered:
-# First
-# Second
+1. First
+2. Second
