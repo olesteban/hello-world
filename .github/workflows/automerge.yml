@@ -1,0 +1,10 @@
+name: Greet Everyone
+# This workflow is triggered on pushes to the repository.
+on: [pull_request_review_comment]
+
+jobs:
+  build:
+    steps:
+      - name: Automatic Merge
+        uses: lots0logs/gh-action-auto-merge@1.0.0
+
